@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "hola",
+      "answer": "Hola! \u00bfEn que puedo ayudarte?"
+    },
+    {
+      "question": "Hello there",
+      "answer": "General Kenobi!"
+    },
+    {
+      "question": "Que puedes hacer?",
+      "answer": "Mi base de datos aun esta algo limitada :( , Ayudame a mejorar aumetar mis conocimientos con nuevas preguntas y respuestas?"
+    }
+  ]
+}
